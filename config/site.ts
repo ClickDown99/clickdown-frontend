@@ -9,12 +9,12 @@ export const siteConfig = {
       href: "/",
     },
     {
-      label: "Login",
-      href: "/login",
+      label: "Sobre",
+      href: "/sobre",
     },
     {
-      label: "Cadastro",
-      href: "/cadastro",
+      label: "Contato",
+      href: "/contato",
     },
   ],
   navMenuItems: [
